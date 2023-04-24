@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shashankg7
 - 👀 I’m interested in Information Retrieval, Bandits, Counterfactual Learning to Rank.
-- 🌱 I’m currently working on Counterfactual LTR. 
-- 💞️ I’m looking to collaborate on Counterfactual LTR, LTR, Off-policy learning, offline bandit learning. If you are interested in any of these topics, feel free to reach out to me. 
+- 🌱 I’m currently working on Counterfactual LTR, off-policy learning, or learning from user interactions in general. 
 - 📫 How to reach me: s.gupta2@uva.nl or 27392shashankgupta@gmail.com.
 
 <!---
