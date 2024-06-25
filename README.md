@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shashankg7
-- 👀 I’m interested in information retrieval, off-policy learning for bandits, and counterfactual/unbiased learning to rank.
+- 👀 I’m interested in information retrieval, off-policy learning for contextual bandits, and counterfactual/unbiased learning to rank.
 - 📫 How to reach me: s.gupta2@uva.nl or 27392shashankgupta@gmail.com.
 
 <!---
